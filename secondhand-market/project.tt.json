@@ -1,0 +1,8 @@
+{
+  "plugins": {
+    "wx-server-sdk": {
+      "version": "latest",
+      "env": "develop"
+    }
+  }
+}

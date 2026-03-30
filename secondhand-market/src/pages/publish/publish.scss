@@ -1,0 +1,17 @@
+.publish-page {
+  padding: 24rpx;
+
+  .placeholder {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+
+    text {
+      font-size: 32rpx;
+      color: #999;
+      margin-bottom: 24rpx;
+    }
+  }
+}
