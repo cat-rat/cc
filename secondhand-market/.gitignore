@@ -31,3 +31,17 @@ yarn-error.log*
 
 # Taro
 .hbuilderx/
+
+# Testing
+coverage/
+*.lcov
+.nyc_output/
+
+# Cloud functions
+cloudfunctions/*/node_modules/
+cloudfunctions/*/.env
+
+# IDE specific
+*.iml
+*.ipr
+*.iws
