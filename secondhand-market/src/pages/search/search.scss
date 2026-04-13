@@ -1,0 +1,13 @@
+.search-page {
+  .placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+
+    text {
+      font-size: 32rpx;
+      color: #999;
+    }
+  }
+}
